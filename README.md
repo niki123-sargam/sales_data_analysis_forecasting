@@ -1,4 +1,4 @@
-# 📊 Customer Segmentation & Sales Dashboard
+# 📊 Sales data analysis and forecasting Dashboard
 
 ## 📌 Project Overview
 This project analyzes retail sales data to understand customer behavior and revenue patterns.
@@ -18,7 +18,7 @@ Python was used for data processing and Power BI was used to build an interactiv
 - Interactive Power BI visuals
 
 ## 📁 Files Included
-- `CUSTOMER_SEGMENTATION_DASHBOARD.pbix` – Power BI dashboard
+- `sales_data_dashboard.pbix` – Power BI dashboard
 - `retail_sales_powerbi.csv` – cleaned dataset
 - `README.md` – project documentation
 
