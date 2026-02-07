@@ -107,6 +107,18 @@ This forecasting approach demonstrates how historical data can be leveraged to m
 ### 📸 Dashboard Overview
 ![Dashboard Overview](dashboard_overview.png)
 
+### 🧴 Product Category Deep-Dive
+
+#### Beauty Category Dashboard
+![Beauty Dashboard](powerbi/dashboard_beauty.png)
+
+#### Clothing Category Dashboard
+![Clothing Dashboard](powerbi/dashboard_clothing.png)
+
+#### Electronics Category Dashboard
+![Electronics Dashboard](powerbi/dashboard_electronics.png)
+
+
 
 ## 🧾 Conclusion & Business Recommendations
 Based on the analysis and dashboard insights:
