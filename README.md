@@ -105,7 +105,7 @@ This forecasting approach demonstrates how historical data can be leveraged to m
 
 ---
 ### 📸 Dashboard Overview
-![Dashboard Overview](powerbi/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 
 ## 🧾 Conclusion & Business Recommendations
