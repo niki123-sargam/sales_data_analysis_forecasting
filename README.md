@@ -110,13 +110,13 @@ This forecasting approach demonstrates how historical data can be leveraged to m
 ### 🧴 Product Category Deep-Dive
 
 #### Beauty Category Dashboard
-![Beauty Dashboard](powerbi/dashboard_beauty.png)
+![Beauty Dashboard](dashboard_beauty.png)
 
 #### Clothing Category Dashboard
-![Clothing Dashboard](powerbi/dashboard_clothing.png)
+![Clothing Dashboard](dashboard_clothing.png)
 
 #### Electronics Category Dashboard
-![Electronics Dashboard](powerbi/dashboard_electronics.png)
+![Electronics Dashboard](dashboard_electronics.png)
 
 
 
