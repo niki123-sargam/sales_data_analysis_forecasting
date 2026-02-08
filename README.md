@@ -119,6 +119,11 @@ This forecasting approach demonstrates how historical data can be leveraged to m
 ![Electronics Dashboard](dashboard_electronics.png)
 
 
+## 📄 Executive Summary
+A concise executive-level summary of insights and business recommendations is available here:
+
+➡️ [View Executive Summary](reports/executive_summary.md)
+
 
 ## 🧾 Conclusion & Business Recommendations
 Based on the analysis and dashboard insights:
